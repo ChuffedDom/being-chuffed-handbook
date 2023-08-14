@@ -7,7 +7,7 @@ This method is a way to define the main characteristics that the team can empath
 What needs to be achieved is to:
 - Focus the conversation around people and problems rather than features and UI.
 - Be able to link back all user experience to user representation.
-- To create a strategically insightful list of questions for user interviews by endeavouring to find truthfulness in the Persona.
+- Create a strategically insightful list of questions for user interviews by endeavouring to find truthfulness in the Persona.
 
 There is no one way of persona writing but rather what fits the situation. Although, a Product early in its journey can have a basic form to get you started. You can add the following:
 
