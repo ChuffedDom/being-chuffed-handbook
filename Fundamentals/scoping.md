@@ -34,7 +34,7 @@ _What do we think a solution could look like?_
 
 **Success**
 
-_What does success look like?**
+_What does success look like?_
 
 **Insights**
 
