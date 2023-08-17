@@ -1,10 +1,8 @@
 # Scoping
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/e4f5d6b4bb094b5e9066c09d94c7c091?sid=e2d6f18e-32c9-485b-9f64-d2e3a729dc4c" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
 The aim of writing a clear and faultless scope is to communicate ideas, concepts and implementations
 
-Chuffed endeavours for every product, feature, iteration, and fix to have a scope at a level that anyone can read and understand the work to be carried out and why.
+Chuffed envisages every product, feature, iteration, and fix to have a scope at a level that anyone can read and understand the work to be carried out and why.
 
 - Chuffed endeavours to describe all aspects of work to be done transparently so that any stakeholder from any department can understand the intent and delivery.
 - Chuffed will scope in a way that explains the tasks that Engineering must create to build a product, the marketing materials needed, and internal/external documentation.
