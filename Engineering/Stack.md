@@ -1,3 +1,4 @@
+# Tech Stack
 Here, Chuffed will determine the stack of the technology that is default to all builds. 
 
 The vision is to have a quick and effective pipeline of development that serve people before infrastructure. 
@@ -26,5 +27,5 @@ Rather that compartmentalising code by operation, e.g. this file has data storag
 Structure data and reformat it for Firebase or other utilisation.
 ### Logic
 The processing of all data and runtime storage, aka state management.
-## Render
+### Render
 All Widgets are place here and are called / referenced from main.dart.
