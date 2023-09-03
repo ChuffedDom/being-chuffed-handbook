@@ -1,21 +1,21 @@
 # Single Source of Truth
-## Purpose
+
 For every team member to understand the entire State of Chuffed at any moment from all perspectives. 
-## Vision
+
 To have every department have their data, state, decisions, updates, future plans, and strategy to be easily accessible, searchable, and digestible by any other department, fully asynchronously. 
-## Goals
+
+Chuffed is aiming to achieve:
 - For all people working with and for Chuffed to be able to find all data and information. 
 - To have allocated time for all team members to update, digest, and give feedback to every department.
 
-## Problem
-Data exists and is processed in various systems across an organisation. When the organisation grows and teams create their own space to work, the systems will end up in silos and formatted depending on the team's needs. This, therefore, creates an environment that:
+The problem this solves is that data exists and is processed in various systems across an organisation. When the organisation grows and teams create their own space to work, the systems will end up in silos and formatted depending on the team's needs. This, therefore, creates an environment that:
 - struggles to have all departments working off the page.
 - inefficient cross-functional, inter-departmental communication. i.e. lots of cascading meetings.
 - ends up with duplicated data and work.
 - maximise processes over productivity.
 - creates bottlenecks in decision-making.
-## Action
-The Single Source of Truth is not a means of not a system, tool, or strategy but rather a state of being for Chuffed's data in that it can all be found via a single reference point.
+
+The Single Source of Truth is not a means of not a system, tool, or strategy but rather a state of being for Chuffed's data in that it can all be found via a single reference point. For Chuffed the Single Source of Truth is Google Drive.
 ### 🚫 Don't
 - Create a space within a department that is inaccessible with company-wide scope.
 - Save anything locally.
