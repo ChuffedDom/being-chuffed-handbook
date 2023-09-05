@@ -2,6 +2,34 @@
 
 #### Welcome to the Chuffed Solutions Handbook, affectionately named, Being Chuffed.
 
+The pages here will serve both internally and externally as:
+- an explanation of the methodology.
+- an expression of our ethos.
+- the forms of communication.
+- our guiding concepts.
+- our leading philosophies. 
+- our values and principles.
+
+## Values
+### People
+- Inclusion
+- Kindness
+- Community
+- Empathy
+- Ethical
+### Planet
+- Sustainability
+- Environmental
+- Zero-waste
+- Net-zero goal
+- Conservation
+### Progress
+- Iteration
+- Innovation
+- Profit
+- Growth
+- Diversification
+
 ## Principles
 
 1. (Our guiding principle) The value of a company is not only measured by the profit it makes, but also in the positive impact on people's lives and leaving the planet in a better place than they found it.
