@@ -15,7 +15,7 @@ The problem this solves is that data exists and is processed in various systems 
 - maximise processes over productivity.
 - creates bottlenecks in decision-making.
 
-The Single Source of Truth is not a means of not a system, tool, or strategy but rather a state of being for Chuffed's data in that it can all be found via a single reference point. For Chuffed the Single Source of Truth is Google Drive.
+The Single Source of Truth is not a means of not a system, tool, or strategy but rather a state of being for Chuffed's data in that it can all be found via a single reference point. 
 ### 🚫 Don't
 - Create a space within a department that is inaccessible with company-wide scope.
 - Save anything locally.
