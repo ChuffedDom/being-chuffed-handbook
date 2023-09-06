@@ -10,7 +10,8 @@ The pages here will serve both internally and externally as:
 - our leading philosophies. 
 - our values and principles.
 
-## Values
+## 3 Pillars
+
 ### People
 - Inclusion
 - Kindness
@@ -43,4 +44,4 @@ The pages here will serve both internally and externally as:
 9. No argument is greater than the one of inclusion.
 10. Strategy > Tactics.
 11. Legitimacy is needed in both the concept and the details.
-12. Life first, business after. 
+12. Life first, business after, always asynchronous.
