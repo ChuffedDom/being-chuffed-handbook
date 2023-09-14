@@ -20,30 +20,21 @@ To deliver experiences that help people and the planet whilst attempting to exis
 
 ## Values
 
-- #### Community
-	- Empathy for all people around us.
-	- Create a sense of belonging.
-	- Build with people, not for people.
-	- Create for everybody; inclusivity is the key.
-	- Be kind and bring people together.
-- #### Empowerment
-	- Patience through everything.
-	- Lifting people up.
-	- Giving purpose to people's lives.
-	- Encourage people towards their causes.
-	- Lead people to be bold, passionate, and proud.
-- #### Honesty
-	- Transparent with all things.
-	- Be truthful at all times.
-	- Never ignore inconvenient facts.
-	- Insights will always be truthful and never manufactured to fit a narrative.
-	- Build trust.
-- #### Adaptability
-	- Welcome change when it is good. 
-	- It's always about progress.
-	- Never take action with the sole purpose of the status quo.
-	- Be the change you want to see in the world.
-	- We, without a doubt, move towards a sustainable world.
+#### Community
+
+Promoting empathy for everyone in our community is at the heart of our mission. We strive to foster a strong sense of belonging by building alongside people, not just for them. Inclusivity is one of our principles, ensuring that everything we create is accessible and beneficial to all. Our ultimate goal is to spread kindness and unite people, making our world a better place for everyone.
+
+#### Empowerment
+
+Our philosophy revolves around the values of unwavering patience and support. We are dedicated to lifting individuals up, igniting a sense of purpose in their lives, and empowering them to enthusiastically pursue their causes. Our leadership inspires people to embrace boldness, passion, and pride as they strive to make a meaningful impact in their journeys.
+
+#### Honesty
+
+Our commitment to transparency and truthfulness forms the bedrock of our approach. We never shy away from inconvenient facts, ensuring our insights are always grounded in reality and never manipulated to suit a particular narrative. Building trust is our utmost priority, and it starts with being forthright and honest in all aspects of our work.
+
+#### Adaptability
+
+Embracing positive change is core to our missions, as we constantly strive for progress. We firmly reject the notion of taking action solely to maintain the status quo, believing that we must be the catalyst for the changes we envision in the world. With unwavering determination, we are committed to moving steadily towards a more sustainable future.
 
 ## Principles
 
@@ -52,7 +43,7 @@ To deliver experiences that help people and the planet whilst attempting to exis
 3. **Community Counts.** As we are greater than the sum of our parts, bringing people together under a shared purpose is recognised as a path of doing.
 4. **Everything is an experiment.** 
 5. **Anything + Time = Change.** It's our one true inevitability, and so we seek to empower and include people in the transitions everyone experiences. This is to bring in innovation, creativity, and revolution. 
-6. **Success is a result of iteration.** 
+6. **Success is a result of iteration.** All good things are a work in progress, forever. We build successful products starting from 
 7. **Success is finding a simple solution to a complex problem without simplifying the problem first.** We reject any oversimplification or solutionism. We recognise that problems are complex, multi-faceted, historic, nuanced, broad, and ultimately experienced by a person.
 8. **Urgency is the enemy of the important.**
 9. **Process is the enemy of creativity.**
