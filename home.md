@@ -41,14 +41,14 @@ Embracing positive change is core to our missions, as we constantly strive for p
 1. **(Our guiding principle) The value of a company is not only measured by the profit it makes, but also by the positive impact on people's lives and leaving the planet in a better place than they found it.**
 2. **All we ever really do is tell empathetic stories about people.** Everything we do starts and ends with people endeavouring to improve their lives.
 3. **Community Counts.** As we are greater than the sum of our parts, bringing people together under a shared purpose is recognised as a path of doing.
-4. **Everything is an experiment.** 
+4. **Everything is an experiment.** In all implementations, we endeavour to learn and grow continuously.
 5. **Anything + Time = Change.** It's our one true inevitability, and so we seek to empower and include people in the transitions everyone experiences. This is to bring in innovation, creativity, and revolution. 
-6. **Success is a result of iteration.** All good things are a work in progress, forever. We build successful products starting from 
+6. **Success is a result of iteration.** All good things are a work in progress, forever. We create successful products starting from the quickest, easiest way to deliver value and build on those foundations.
 7. **Success is finding a simple solution to a complex problem without simplifying the problem first.** We reject any oversimplification or solutionism. We recognise that problems are complex, multi-faceted, historic, nuanced, broad, and ultimately experienced by a person.
-8. **Urgency is the enemy of the important.** Forcing a sense of urgency when it is not necessary not only creates a difficult environment for people to work in but puts aside the right thing to do for the quick.
-9. **Process is the enemy of creativity.** Working in teams, large or small can breed process and systems, but as time goes on, it's easy to find leftover process that takes with little benefit. The ultimate goal of a process is to make itself redundant.
-10. **No argument is greater than the one of inclusion.**
-11. **Strategy > Tactics.**
+8. **Urgency is the enemy of the important.** Forcing a sense of urgency when it is not necessary not only creates a difficult environment for people to work in but also puts aside the right thing to do for the quick.
+9. **Process is the enemy of creativity.** Working in teams, large or small, can breed process and systems, but as time goes on, it's easy to find leftover process that takes with little benefit. The ultimate goal of a process is to make itself redundant.
+10. **No argument is greater than the one of inclusion.** Inclusiveness, diversity, and belonging in the workplace and communities is an essential part of Chuffed's ubiquitous, ever-present ideology.
+11. **Strategy > Tactics.** While tactics are essential for executing specific actions and achieving short-term goals, strategy provides the foundation and direction for those actions. Strategy helps ensure that tactical decisions are aligned, purposeful, adaptable, and focused on long-term success.
 12. **Legitimacy is needed in both the concept and the details.** Working on an idea or problem needs validation from the top and bottom levels together to be truthful in your assessment. 
 13. **Life first, business after, always asynchronous.** No loyalty is expected at Chuffed. Everybody's life and well-being are a priority over any operation.
-14. **Don't bump good decisions for managing bad decisions.** Moving forward is how Chuffed approaches all situations, and dealing with something that no longer serves it's purpose or trying to implement beyond the capabilities of a solution will default to do something new.
+14. **Don't bump good decisions for managing bad decisions.** Moving forward is how Chuffed approaches all situations, and dealing with something that no longer serves its purpose or trying to implement beyond the capabilities of a solution will default to do something new.
