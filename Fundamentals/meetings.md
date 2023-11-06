@@ -2,10 +2,10 @@
 
 This page describes the format and setup for every meeting Chuffed will hold.
 
-Chuffed sees meetings as only a tool for discussion, ideation, and pitching ideas. Meetings are not a place for decisions to be made.
+Chuffed sees meetings as only a tool for discussion, ideation, and pitching ideas. Meetings are not a place for decisions to be made. Don't do physical meetings in a digital space. 
 
 - Chuffed wants all meetings to have an agenda so everyone who attends can prepare.
-
+[[Design/overview]]
 - Chuffed needs a text, audio, or video log for all meetings to update people retroactively.
 
 - Chuffed needs all internal meetings to be voluntary.

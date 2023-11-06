@@ -12,7 +12,7 @@ The pages here will serve both internally and externally as:
 
 ## Vision
 
-To deliver experiences that empower people and help the planet whilst attempting to exist in our neo-liberal capitalistic hellscape.
+To deliver purpose to communities and institutions that empowers people and helps the planet, whilst attempting to exist in our neo-liberal, capitalistic hellscape.
 
 ## 3 Pillars
 
@@ -35,9 +35,6 @@ Our commitment to transparency and truthfulness forms the bedrock of our approac
 #### Adaptability
 
 Embracing positive change is core to our missions, as we constantly strive for progress. We firmly reject the notion of taking action solely to maintain the status quo, believing that we must be the catalyst for the changes we envision in the world. With unwavering determination, we are committed to moving steadily towards a more sustainable future.
-#### Integrity 
-
-A basic level of respect.
 
 ## Principles
 
@@ -57,3 +54,6 @@ A basic level of respect.
 14. **Don't let the perfect be the enemy of the good.**
 15. **Don't bump good decisions for managing bad decisions.** Moving forward is how Chuffed approaches all situations, and dealing with something that no longer serves its purpose or trying to implement beyond the capabilities of a solution will default to do something new.
 16. **Kill your babies**
+17. **Things are rarely binary, rather exist on a scale.**
+18. **Things are unlikely to exist on a point on a scale, rather occupy a range.**
+19. **Democratise Prosperity.** 
