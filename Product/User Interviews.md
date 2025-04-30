@@ -1,5 +1,3 @@
-# User Interviews
-
 The reason Chuffed seeks to be best in class in User Interviews, is that every piece of work and product is in vain of the pain points of the user's story.
 
 Chuffed sees User Interview being the core of the company and generating a clear data store of people, and their, goals, motivations, and problems.

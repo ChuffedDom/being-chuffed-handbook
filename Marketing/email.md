@@ -1,7 +1,4 @@
-
 Email marketing is done at https://people.chuffed.app/
-
-
 ## Campaigns
 
 ### \1. Create a Segment for the campaign.

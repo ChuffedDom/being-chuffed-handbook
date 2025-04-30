@@ -1,5 +1,3 @@
-# Scoping
-
 The aim of writing a clear and faultless scope is to communicate ideas, concepts and implementations
 
 Chuffed envisages every product, feature, iteration, and fix to have a scope at a level that anyone can read and understand the work to be carried out and why.

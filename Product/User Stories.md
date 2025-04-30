@@ -1,4 +1,3 @@
-# User Stories
 If you in the business of bedroom furniture, you are not going to sell the mattress, rather you sell the good night sleep.
 
 ## 🚫 Don't

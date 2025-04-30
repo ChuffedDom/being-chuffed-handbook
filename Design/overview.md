@@ -1,5 +1,4 @@
 ## Principles
-
 - Empathy before ideas.
 - Accessible design is just good design.
 - Context is everything, always.

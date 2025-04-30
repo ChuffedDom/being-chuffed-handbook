@@ -1,5 +1,3 @@
-# Social Media and Content Marketing Strategy
-
 The purpose of this document is to lay out how I envisage the digital marketing strategy for Chuffed over the next 3-6 months. This is a live document that will change over time as we learn various techniques and optimise our approach.
 ## Purpose
 

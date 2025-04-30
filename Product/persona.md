@@ -1,5 +1,3 @@
-# Persona
-
 As we build a product that successfully solves a user's problem, we need to know who our user is. One way to summarise all potential and current users is to create a Persona. 
 
 This method is a way to define the main characteristics that the team can empathise with and build for. As qualitative and quantitive data comes in, the Personas can be assessed for truthfulness, making it a source of truth for all other work.

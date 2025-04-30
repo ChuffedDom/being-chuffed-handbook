@@ -1,5 +1,3 @@
-# Single Source of Truth
-
 For every team member to understand the entire State of Chuffed at any moment from all perspectives. 
 
 To have every department have their data, state, decisions, updates, future plans, and strategy to be easily accessible, searchable, and digestible by any other department, fully asynchronously. 

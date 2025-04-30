@@ -1,4 +1,3 @@
-# Tech Stack
 Here, Chuffed will determine the stack of the technology that is default to all builds. 
 
 The vision is to have a quick and effective pipeline of development that serve people before infrastructure. 

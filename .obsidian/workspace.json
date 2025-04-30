@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "e7a6b3c68b2968e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cc17f3730bde0b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e6ee0a63f5df72e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design/Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e78d09e1322b00e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c44ecf80eb12a3c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdae360cae69a601",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c9691c605a2d8577",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "88e53792ee3da736",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d1fc096f57deab3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6216ea52e67fcb98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a172f258c389019",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Design/Overview.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "98ea5b79cde4a041",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Design/Overview.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cd7f445963525697",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8fd9cd995ba63349",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Design/Overview.md"
+              }
+            }
+          },
+          {
+            "id": "f4e1f96b7bb4097e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "7e6ee0a63f5df72e",
+  "lastOpenFiles": [
+    "Product/MVP.md",
+    "Social Media and Content Types.png",
+    "README.md",
+    "Pasted image 20230921235410.png",
+    "Being Chuffed.md",
+    "Product/User Stories.md",
+    "Product/User Interviews.md",
+    "Product/Persona.md",
+    "Marketing/Social Media.md",
+    "Marketing/email.md",
+    "Fundamentals/Single Source of Truth.md",
+    "Fundamentals/Systems and Processes.md",
+    "Fundamentals/Scoping.md",
+    "Fundamentals/Meetings.md",
+    "Engineering/Overview.md",
+    "Engineering/Default Stack.md",
+    "Design/Overview.md",
+    "publish.css.md",
+    "publish.css",
+    "Attendance.md",
+    "Marketing",
+    "2023-09-08.md",
+    "_config.yml",
+    "_config.yml.txt",
+    "New Text Document.txt",
+    "Design"
+  ]
+}
